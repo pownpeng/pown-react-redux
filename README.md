@@ -1,5 +1,5 @@
 
-#pown-react-redux
+#单纯的react-redux:pown-react-redux
 
 ### pown-react-redux*是什么*？
 ##pown-react-redux**是一个配合redux使用的插件。    
